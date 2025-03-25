@@ -7,5 +7,6 @@ public class Main {
         System.out.printf("Hello, Timur");
         Tester tester = new Tester("Timur", "Ivanov", 5, "Intermediate", 5000.0);
         Tester.printTesterInfo(tester);
+        //fddfdsfdsfdsfsdfdsfdsfd
     }
 }
